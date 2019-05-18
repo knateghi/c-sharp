@@ -13,7 +13,7 @@ namespace ConsoleApp1
             try
             {
                 Stack<int> numbers = new Stack<int>();
-
+                // cooment
                 Console.Write("How many digits does your number contain? ");
                 int count = Convert.ToInt32(Console.ReadLine());
                 Console.Write("Starting from left, enter as follows: ");
