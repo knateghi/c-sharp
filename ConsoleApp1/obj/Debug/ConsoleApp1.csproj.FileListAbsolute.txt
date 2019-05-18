@@ -1,0 +1,6 @@
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kobra Windows 10\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
